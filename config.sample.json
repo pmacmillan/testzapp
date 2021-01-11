@@ -1,0 +1,4 @@
+{
+    "clientId": "<client-id-from-zoom>",
+    "clientSecret": "<client-secret-from-zoom>"
+}
